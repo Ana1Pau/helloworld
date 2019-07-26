@@ -1,0 +1,11 @@
+#Model that simulates the growth of a plant
+#Elements: earth/water/sun/seed/time
+
+#第一软件介绍说欢迎你
+print("Welcome to photosintesys")
+
+#第二软件介绍性状（xing zhuang ,nature）
+print("List that comprehends a set of elements for life:")
+print(Earth，water,sun,seed,time)
+
+#建立一个随时间增长的模型并绘制进度和增长图 
